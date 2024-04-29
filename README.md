@@ -12,26 +12,29 @@ This GitHub page provides hardware design files for Pico Cell 4G.
   - [/Mechanical Data](https://github.com/sbcshop/Pico_Cell_4G_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [Getting Started Guide](https://github.com/sbcshop/Pico_Cell_4G_Software) - This repo contains Pico Cell 4G Getting Started instructions and Sample Codes.
 
-<!--
 
-## Related Products
-  * [Roundy - Round LCD Board based on RP2040/ESP-12E](https://shop.sb-components.co.uk/products/roundy?variant=39785171681363) 
-   
-     ![Roundy - Round LCD Board based on RP2040/ESP-12E](https://shop.sb-components.co.uk/cdn/shop/products/roundypi.png?v=1650457581&width=300)   
+## Related Products  
+  * [PiTalk - 4G IoT HAT](https://shop.sb-components.co.uk/products/pitalk-4g-iot-hat-1?_pos=4&_sid=815794148&_ss=r)
 
-  * [Round LCD HAT for Raspberry Pi](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi?_pos=2&_sid=d01bb5d53&_ss=r) 
-   
-     ![Round LCD HAT for Raspberry Pi](https://shop.sb-components.co.uk/cdn/shop/products/LCDHATforPi.jpg?v=1619171154&width=300) 
-
-  * [1.28” Round LCD HAT for Pico](https://shop.sb-components.co.uk/products/1-28-round-lcd-hat-for-pico?_pos=3&_sid=d01bb5d53&_ss=r) 
-   
-     ![1.28” Round LCD HAT for Pico](https://shop.sb-components.co.uk/cdn/shop/products/1.28_RoundLCDHATforPico.png?v=1622634190&width=300)
+    ![PiTalk - 4G IoT HAT](https://shop.sb-components.co.uk/cdn/shop/products/06_2664295e-045b-48c3-bb02-f45ae2d7b4ea.png?v=1677660393&width=300)
     
-  * [1.28” Round LCD Breakout](https://shop.sb-components.co.uk/products/1-28-round-lcd-breakout?_pos=5&_sid=d01bb5d53&_ss=r) 
-   
-     ![1.28” Round LCD Breakout](https://shop.sb-components.co.uk/cdn/shop/products/01_a58fb20c-7cc7-4908-bfca-549b28c721b6.png?v=1677234693&width=300) 
+  * [PiTalk - 2G HAT](https://shop.sb-components.co.uk/products/pitalk-2g-hat?_pos=2&_sid=815794148&_ss=r)
 
- -->
+    ![PiTalk - 2G HAT](https://shop.sb-components.co.uk/cdn/shop/products/05_d481ca52-c552-4972-b4b6-d7199af0a3fc.png?v=1674819241&width=300)
+    
+  * [PiTalk - 4G IoT HAT](https://shop.sb-components.co.uk/products/pitalk-4g-iot-hat-1?_pos=4&_sid=815794148&_ss=r)
+
+    ![PiTalk - 4G IoT HAT](https://shop.sb-components.co.uk/cdn/shop/products/06_2664295e-045b-48c3-bb02-f45ae2d7b4ea.png?v=1677660393&width=300)
+
+  * [Simcom SIM7600G (4G) Breakout](https://shop.sb-components.co.uk/products/simcom-4g-module-breakout?_pos=1&_sid=5a6b2df96&_ss=r)
+
+    ![Simcom SIM7600G (4G) Breakout](https://shop.sb-components.co.uk/cdn/shop/files/2SIMCOM.png?v=1713788098&width=300)
+
+  * [Quectel EG25G (4G) Breakout](https://shop.sb-components.co.uk/products/quectel-4g-module-breakout?_pos=2&_sid=5a6b2df96&_ss=r)
+
+    ![Quectel EG25G (4G) Breakout](https://shop.sb-components.co.uk/cdn/shop/files/2quectel.png?v=1713789371&width=300)
+       
+
  
 ## Product License
 

@@ -1,8 +1,6 @@
 # Pico_Cell_4G_Hardware
 
-<!--
-<img src = "https://github.com/sbcshop/Rotary_ESP32S3_Powered_Hardware/blob/main/images/esp.png" width="648" height="432">
--->
+<img src= "https://github.com/sbcshop/Pico_Cell_4G_Software/blob/main/images/picocellshopbanner.png" />
 
 This GitHub page provides hardware design files for Pico Cell 4G.
 
